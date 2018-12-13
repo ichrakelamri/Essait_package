@@ -1,0 +1,11 @@
+Package: ESSAIT
+Title: a package i made 
+Version: 0.0.0.9000
+Authors: EL amri Ichrak <amriichrak17@gmail.com>
+Maintainer:EL amri Ichrak <amriichrak17@gmail.com>
+Description: this is a simple package 
+Depends: R (>= 3.5.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
